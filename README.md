@@ -1,1 +1,1 @@
-# Documentation
+# Organization guidelines
